@@ -38,13 +38,13 @@ Perform a local vulnerability scan on my Mac (localhost) to identify potential s
 | High     | Oracle VirtualBox – April 2025 CPU Advisory (CVSS 8.1)  | Upgrade VirtualBox to patched version        |
 | Medium   | Docker Desktop < 4.41.0 – Info Disclosure               | Upgrade Docker to ≥ 4.41.0                   |
 
-More details in [`Report/vulnerability-scan-report.md`](./Report/vulnerability-scan-report.md)
+More details in [`generated-detailed-report/`](./generated-detailed-report/)
 
 ---
 
 ## 📷 Screenshots
 
-All steps and results are documented in the [`Report/screenshots/`](./Report/screenshots/) folder, including:
+All steps and results are documented in the [`snapshots/`](./snapshots/) folder, including:
 
 - Nessus installation
 - Scan creation
